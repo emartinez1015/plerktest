@@ -1,0 +1,1141 @@
+- model: transactions.company
+  pk: 027c7f25-84f5-48e6-b661-144c0922f7fe
+  fields:
+    created_at: 2022-04-10 16:57:39.770087+00:00
+    updated_at: 2022-04-10 16:57:39.770129+00:00
+    name: Izzy Internet
+    active_status: true
+- model: transactions.company
+  pk: 03a40ade-534f-4cc0-9c37-a7ccd5e12b58
+  fields:
+    created_at: 2022-04-10 16:57:39.649219+00:00
+    updated_at: 2022-04-10 16:57:39.649254+00:00
+    name: Uber Eats
+    active_status: true
+- model: transactions.company
+  pk: 05f4ea30-13a4-4ff4-8530-27a6d7662b1b
+  fields:
+    created_at: 2022-04-10 16:57:39.936336+00:00
+    updated_at: 2022-04-10 16:57:39.936374+00:00
+    name: Coursera
+    active_status: true
+- model: transactions.company
+  pk: 06a471ae-aee0-43e3-b2f2-910c4e5c3255
+  fields:
+    created_at: 2022-04-10 16:57:39.906297+00:00
+    updated_at: 2022-04-10 16:57:39.906338+00:00
+    name: Sweat
+    active_status: true
+- model: transactions.company
+  pk: 07df680e-e0b6-45db-a2c7-3115a3ba8106
+  fields:
+    created_at: 2022-04-10 16:57:39.569321+00:00
+    updated_at: 2022-04-10 16:57:39.569376+00:00
+    name: Didi Food
+    active_status: true
+- model: transactions.company
+  pk: 081efb16-3af4-44f5-8686-30d6faf169e7
+  fields:
+    created_at: 2022-04-10 16:57:39.734526+00:00
+    updated_at: 2022-04-10 16:57:39.734568+00:00
+    name: Microsoft Store
+    active_status: true
+- model: transactions.company
+  pk: 0861c8c9-8bca-4f2d-8ea6-26bd274a6b83
+  fields:
+    created_at: 2022-04-10 16:57:39.711743+00:00
+    updated_at: 2022-04-10 16:57:39.711779+00:00
+    name: D-local
+    active_status: true
+- model: transactions.company
+  pk: 086f9cc7-0ebc-4b48-b29b-4c9176ce8b2d
+  fields:
+    created_at: 2022-04-10 16:57:40.179570+00:00
+    updated_at: 2022-04-10 16:57:40.179602+00:00
+    name: Storytel
+    active_status: true
+- model: transactions.company
+  pk: 08f259e8-ca9f-42c8-8e72-adb7ad52d16d
+  fields:
+    created_at: 2022-04-10 16:57:40.044005+00:00
+    updated_at: 2022-04-10 16:57:40.044037+00:00
+    name: The New York Times
+    active_status: true
+- model: transactions.company
+  pk: 09da5e14-2dbc-4ee0-8cdf-ae49456d5f5a
+  fields:
+    created_at: 2022-04-10 16:57:40.080377+00:00
+    updated_at: 2022-04-10 16:57:40.080409+00:00
+    name: Tacx
+    active_status: true
+- model: transactions.company
+  pk: 0a9cb0cc-bda7-48d2-ba0a-ab0fee79e0f2
+  fields:
+    created_at: 2022-04-10 16:57:40.049337+00:00
+    updated_at: 2022-04-10 16:57:40.049370+00:00
+    name: Appbar
+    active_status: true
+- model: transactions.company
+  pk: 0d3e0175-ba37-4bd8-b689-6b90304749e3
+  fields:
+    created_at: 2022-04-10 16:57:40.063063+00:00
+    updated_at: 2022-04-10 16:57:40.063119+00:00
+    name: PGSharp
+    active_status: true
+- model: transactions.company
+  pk: 0e626d96-8e6a-40a0-b471-684083981c46
+  fields:
+    created_at: 2022-04-10 16:57:40.420231+00:00
+    updated_at: 2022-04-10 16:57:40.420264+00:00
+    name: Down Dog
+    active_status: true
+- model: transactions.company
+  pk: 0fcd1aa2-511a-4fca-8a41-192f8ad95634
+  fields:
+    created_at: 2022-04-10 16:57:40.449582+00:00
+    updated_at: 2022-04-10 16:57:40.449617+00:00
+    name: CuriosityStream
+    active_status: true
+- model: transactions.company
+  pk: 0fce7873-9d3d-417b-a408-048181a87ed4
+  fields:
+    created_at: 2022-04-10 16:57:39.619053+00:00
+    updated_at: 2022-04-10 16:57:39.619094+00:00
+    name: Netflix
+    active_status: true
+- model: transactions.company
+  pk: 108af8df-28c3-429f-9f24-752367b405d6
+  fields:
+    created_at: 2022-04-10 16:57:39.820610+00:00
+    updated_at: 2022-04-10 16:57:39.820656+00:00
+    name: Playstation Network
+    active_status: true
+- model: transactions.company
+  pk: 1420edf1-1641-47e8-bb5a-560238321d2b
+  fields:
+    created_at: 2022-04-10 16:57:39.912418+00:00
+    updated_at: 2022-04-10 16:57:39.912453+00:00
+    name: Vecat
+    active_status: true
+- model: transactions.company
+  pk: 14961b36-bd83-4771-accd-f3699ee3340c
+  fields:
+    created_at: 2022-04-10 16:57:39.699384+00:00
+    updated_at: 2022-04-10 16:57:39.699417+00:00
+    name: Verificacion KS
+    active_status: true
+- model: transactions.company
+  pk: 15baa6f7-0bc0-41f8-9a34-eadd67f7e3fa
+  fields:
+    created_at: 2022-04-10 16:57:40.282576+00:00
+    updated_at: 2022-04-10 16:57:40.282609+00:00
+    name: H&M
+    active_status: true
+- model: transactions.company
+  pk: 16906345-bce3-4223-a8a9-1c3d8522bd41
+  fields:
+    created_at: 2022-04-10 16:57:40.008560+00:00
+    updated_at: 2022-04-10 16:57:40.008594+00:00
+    name: Calm
+    active_status: true
+- model: transactions.company
+  pk: 17f75a5a-90d0-4d3a-a57f-da28874f8d41
+  fields:
+    created_at: 2022-04-10 16:57:40.302362+00:00
+    updated_at: 2022-04-10 16:57:40.302395+00:00
+    name: Cornershop
+    active_status: true
+- model: transactions.company
+  pk: 1a2cb210-703b-400e-ac04-f5a24a967878
+  fields:
+    created_at: 2022-04-10 16:57:39.752047+00:00
+    updated_at: 2022-04-10 16:57:39.752083+00:00
+    name: Plerk
+    active_status: true
+- model: transactions.company
+  pk: 1e2ca752-907f-43e2-bad6-11b81c5f452f
+  fields:
+    created_at: 2022-04-10 16:57:40.115540+00:00
+    updated_at: 2022-04-10 16:57:40.115587+00:00
+    name: Amazon Prime Video
+    active_status: true
+- model: transactions.company
+  pk: 2029d39d-c2a2-4bce-8fd8-0d0292fe35f9
+  fields:
+    created_at: 2022-04-10 16:57:39.693690+00:00
+    updated_at: 2022-04-10 16:57:39.693747+00:00
+    name: Fpay
+    active_status: true
+- model: transactions.company
+  pk: 230363d3-c023-4a63-a4eb-02bc9d97ac49
+  fields:
+    created_at: 2022-04-10 16:57:40.228750+00:00
+    updated_at: 2022-04-10 16:57:40.228812+00:00
+    name: Codecademy
+    active_status: true
+- model: transactions.company
+  pk: 24a3ccac-c638-4ad0-8893-6370fcc01836
+  fields:
+    created_at: 2022-04-10 16:57:39.631406+00:00
+    updated_at: 2022-04-10 16:57:39.631445+00:00
+    name: Comisión Federal De Electricidad
+    active_status: true
+- model: transactions.company
+  pk: 26aa92ef-fd86-4c39-8bb1-ae2e56c6727a
+  fields:
+    created_at: 2022-04-10 16:57:40.191443+00:00
+    updated_at: 2022-04-10 16:57:40.191505+00:00
+    name: Linkedin
+    active_status: true
+- model: transactions.company
+  pk: 2a030345-2dad-44a1-9afc-13699cae2598
+  fields:
+    created_at: 2022-04-10 16:57:39.680502+00:00
+    updated_at: 2022-04-10 16:57:39.680545+00:00
+    name: Audible
+    active_status: true
+- model: transactions.company
+  pk: 2b6fd0d4-be49-4093-bd8e-61a9e47bc41f
+  fields:
+    created_at: 2022-04-10 16:57:40.247787+00:00
+    updated_at: 2022-04-10 16:57:40.247822+00:00
+    name: Supercell
+    active_status: true
+- model: transactions.company
+  pk: 2c17a94b-8101-4538-a619-a9a5f7c5e69c
+  fields:
+    created_at: 2022-04-10 16:57:40.167819+00:00
+    updated_at: 2022-04-10 16:57:40.167861+00:00
+    name: Patreon
+    active_status: true
+- model: transactions.company
+  pk: 2fad5a1c-ca2c-4f7e-b035-fed2e6cc3d0b
+  fields:
+    created_at: 2022-04-10 16:57:39.968147+00:00
+    updated_at: 2022-04-10 16:57:39.968180+00:00
+    name: Apple
+    active_status: true
+- model: transactions.company
+  pk: 2fe87a7f-754c-497f-9313-caef9a82e49c
+  fields:
+    created_at: 2022-04-10 16:57:40.478983+00:00
+    updated_at: 2022-04-10 16:57:40.479016+00:00
+    name: Estadio TNT Sports
+    active_status: true
+- model: transactions.company
+  pk: 2ffc7185-5236-4ff2-aba9-fe761a26f9f0
+  fields:
+    created_at: 2022-04-10 16:57:40.544170+00:00
+    updated_at: 2022-04-10 16:57:40.544205+00:00
+    name: DDD Yoga
+    active_status: true
+- model: transactions.company
+  pk: 321eb638-86a7-49be-8991-85bd32916a6b
+  fields:
+    created_at: 2022-04-10 16:57:39.846395+00:00
+    updated_at: 2022-04-10 16:57:39.846443+00:00
+    name: Les Mills Media
+    active_status: true
+- model: transactions.company
+  pk: 368cd279-8968-4e03-b628-d508280d5858
+  fields:
+    created_at: 2022-04-10 16:57:40.403327+00:00
+    updated_at: 2022-04-10 16:57:40.403359+00:00
+    name: Criterion Channel
+    active_status: true
+- model: transactions.company
+  pk: 36997a3d-103e-41fd-8cca-baa77a3fc297
+  fields:
+    created_at: 2022-04-10 16:57:40.484610+00:00
+    updated_at: 2022-04-10 16:57:40.484644+00:00
+    name: Board Game Arena
+    active_status: true
+- model: transactions.company
+  pk: 3d91e271-0479-4485-9221-2c936e55422f
+  fields:
+    created_at: 2022-04-10 16:57:40.513844+00:00
+    updated_at: 2022-04-10 16:57:40.513892+00:00
+    name: Atresplayer Premium
+    active_status: true
+- model: transactions.company
+  pk: 3f1201c0-3e9d-45a6-92cb-fdf7775fe75d
+  fields:
+    created_at: 2022-04-10 16:57:39.950521+00:00
+    updated_at: 2022-04-10 16:57:39.950560+00:00
+    name: Experian
+    active_status: true
+- model: transactions.company
+  pk: 3fde022b-2644-4573-8813-6a9a71e7b7e0
+  fields:
+    created_at: 2022-04-10 16:57:39.578333+00:00
+    updated_at: 2022-04-10 16:57:39.578383+00:00
+    name: Rappi Prime
+    active_status: true
+- model: transactions.company
+  pk: 42daa784-ec26-4cd5-aadb-ca3af4d20fe5
+  fields:
+    created_at: 2022-04-10 16:57:39.654967+00:00
+    updated_at: 2022-04-10 16:57:39.655008+00:00
+    name: Spotify
+    active_status: true
+- model: transactions.company
+  pk: 43caacf1-2f2a-451b-948c-05635bbd372d
+  fields:
+    created_at: 2022-04-10 16:57:39.852255+00:00
+    updated_at: 2022-04-10 16:57:39.852291+00:00
+    name: Mubi
+    active_status: true
+- model: transactions.company
+  pk: 44b885bb-c514-410a-af7b-2a33fc77aadf
+  fields:
+    created_at: 2022-04-10 16:57:40.314685+00:00
+    updated_at: 2022-04-10 16:57:40.314717+00:00
+    name: Airbnb
+    active_status: true
+- model: transactions.company
+  pk: 467e172e-cb46-4f31-9c58-469518b4481e
+  fields:
+    created_at: 2022-04-10 16:57:39.636951+00:00
+    updated_at: 2022-04-10 16:57:39.636991+00:00
+    name: Amazon Prime Video
+    active_status: true
+- model: transactions.company
+  pk: 476d970e-0108-4977-83e7-7ff44ca26e0c
+  fields:
+    created_at: 2022-04-10 16:57:39.812861+00:00
+    updated_at: 2022-04-10 16:57:39.812902+00:00
+    name: Paramount Plus
+    active_status: true
+- model: transactions.company
+  pk: 4925967a-a620-432d-9bbb-4f6032780db5
+  fields:
+    created_at: 2022-04-10 16:57:40.234522+00:00
+    updated_at: 2022-04-10 16:57:40.234560+00:00
+    name: Bumble
+    active_status: true
+- model: transactions.company
+  pk: 4b6a7c1a-af10-4224-90e6-2d7f212c0bcf
+  fields:
+    created_at: 2022-04-10 16:57:40.391639+00:00
+    updated_at: 2022-04-10 16:57:40.391679+00:00
+    name: Funfotos
+    active_status: true
+- model: transactions.company
+  pk: 4e5c00b0-319e-4b10-ade1-4bd43b3f2038
+  fields:
+    created_at: 2022-04-10 16:57:40.290668+00:00
+    updated_at: 2022-04-10 16:57:40.290701+00:00
+    name: Tuenti
+    active_status: true
+- model: transactions.company
+  pk: 4fbcaacf-6805-4aaf-856f-f5421aa5e12a
+  fields:
+    created_at: 2022-04-10 16:57:39.833716+00:00
+    updated_at: 2022-04-10 16:57:39.833756+00:00
+    name: Domino's Pizza
+    active_status: true
+- model: transactions.company
+  pk: 508d7626-00f2-496e-90d5-6b5b88f404f9
+  fields:
+    created_at: 2022-04-10 16:57:40.437139+00:00
+    updated_at: 2022-04-10 16:57:40.437173+00:00
+    name: Ocho La Super App
+    active_status: true
+- model: transactions.company
+  pk: 5125e821-3551-4751-b302-0af4dc5764de
+  fields:
+    created_at: 2022-04-10 16:57:40.357083+00:00
+    updated_at: 2022-04-10 16:57:40.357122+00:00
+    name: Medium
+    active_status: true
+- model: transactions.company
+  pk: 51c1a0dd-9185-486a-ab0d-64d7ff8a2497
+  fields:
+    created_at: 2022-04-10 16:57:40.526577+00:00
+    updated_at: 2022-04-10 16:57:40.526614+00:00
+    name: Youtube Music
+    active_status: true
+- model: transactions.company
+  pk: 5829e0a4-f058-4c26-a0cb-747f995701e9
+  fields:
+    created_at: 2022-04-10 16:57:39.625832+00:00
+    updated_at: 2022-04-10 16:57:39.625873+00:00
+    name: Amazon
+    active_status: true
+- model: transactions.company
+  pk: 59e154b5-b742-4db4-a8b4-f3965cf92ef8
+  fields:
+    created_at: 2022-04-10 16:57:40.110197+00:00
+    updated_at: 2022-04-10 16:57:40.110231+00:00
+    name: Hulu
+    active_status: true
+- model: transactions.company
+  pk: 59edbd15-ecd6-4f90-8026-74ee57390cc0
+  fields:
+    created_at: 2022-04-10 16:57:40.491160+00:00
+    updated_at: 2022-04-10 16:57:40.491207+00:00
+    name: Mercuryo
+    active_status: true
+- model: transactions.company
+  pk: 5a024ed5-e80c-4254-bd81-be408e8b68d5
+  fields:
+    created_at: 2022-04-10 16:57:39.894884+00:00
+    updated_at: 2022-04-10 16:57:39.894923+00:00
+    name: Domestika
+    active_status: true
+- model: transactions.company
+  pk: 5b6bab6b-1f86-446f-abef-7220b61de16b
+  fields:
+    created_at: 2022-04-10 16:57:40.467362+00:00
+    updated_at: 2022-04-10 16:57:40.467395+00:00
+    name: Minecraft
+    active_status: true
+- model: transactions.company
+  pk: 5c7bc3a3-c9db-4570-a6c4-32b72cf412cf
+  fields:
+    created_at: 2022-04-10 16:57:39.794635+00:00
+    updated_at: 2022-04-10 16:57:39.794675+00:00
+    name: Kushki
+    active_status: true
+- model: transactions.company
+  pk: 5d5000e2-d0fa-4f1b-9ca7-b28bc14c2eb0
+  fields:
+    created_at: 2022-04-10 16:57:39.757968+00:00
+    updated_at: 2022-04-10 16:57:39.758018+00:00
+    name: Revolut
+    active_status: true
+- model: transactions.company
+  pk: 5ed92ee4-65c1-461c-9483-eeb0be11d305
+  fields:
+    created_at: 2022-04-10 16:57:39.996974+00:00
+    updated_at: 2022-04-10 16:57:39.997009+00:00
+    name: Bookmate
+    active_status: true
+- model: transactions.company
+  pk: 6131b3ce-01c6-46c7-8f94-c7eb3583d3c1
+  fields:
+    created_at: 2022-04-10 16:57:40.443931+00:00
+    updated_at: 2022-04-10 16:57:40.443976+00:00
+    name: Udemy
+    active_status: true
+- model: transactions.company
+  pk: 62ef9188-c062-4a4b-89ef-095558231d08
+  fields:
+    created_at: 2022-04-10 16:57:40.431567+00:00
+    updated_at: 2022-04-10 16:57:40.431602+00:00
+    name: Talonro
+    active_status: true
+- model: transactions.company
+  pk: 64406f4c-1441-43c3-9344-2ae1a3a297c7
+  fields:
+    created_at: 2022-04-10 16:57:40.385743+00:00
+    updated_at: 2022-04-10 16:57:40.385779+00:00
+    name: Penzu
+    active_status: true
+- model: transactions.company
+  pk: 66afa52f-1d1e-4eae-a7f4-df5a781cf7de
+  fields:
+    created_at: 2022-04-10 16:57:39.604633+00:00
+    updated_at: 2022-04-10 16:57:39.604687+00:00
+    name: Starbucks
+    active_status: true
+- model: transactions.company
+  pk: 66f30070-a0d0-458a-a6dc-54f108c1f997
+  fields:
+    created_at: 2022-04-10 16:57:40.145743+00:00
+    updated_at: 2022-04-10 16:57:40.145776+00:00
+    name: Natacha Oceane
+    active_status: true
+- model: transactions.company
+  pk: 6757c764-54ac-4570-91ac-db7ae8e33f14
+  fields:
+    created_at: 2022-04-10 16:57:40.037264+00:00
+    updated_at: 2022-04-10 16:57:40.037296+00:00
+    name: Microsoft
+    active_status: true
+- model: transactions.company
+  pk: 67ed0465-99d2-4e12-be5a-17fef6d5440d
+  fields:
+    created_at: 2022-04-10 16:57:39.882734+00:00
+    updated_at: 2022-04-10 16:57:39.882771+00:00
+    name: Gaia
+    active_status: true
+- model: transactions.company
+  pk: 6d1cdcf0-bc5c-4b33-85c3-404b1b43ccf9
+  fields:
+    created_at: 2022-04-10 16:57:39.746424+00:00
+    updated_at: 2022-04-10 16:57:39.746466+00:00
+    name: D-local
+    active_status: true
+- model: transactions.company
+  pk: 6ef2c86a-bab1-4ae0-bf7f-267b6d658f9f
+  fields:
+    created_at: 2022-04-10 16:57:40.363092+00:00
+    updated_at: 2022-04-10 16:57:40.363126+00:00
+    name: Twitch
+    active_status: true
+- model: transactions.company
+  pk: 7584622c-2919-40c2-bd10-f0ac7153208a
+  fields:
+    created_at: 2022-04-10 16:57:40.019656+00:00
+    updated_at: 2022-04-10 16:57:40.019699+00:00
+    name: Podomatic
+    active_status: true
+- model: transactions.company
+  pk: 77bd9a61-978a-4a4f-81cf-64c26066f615
+  fields:
+    created_at: 2022-04-10 16:57:40.309272+00:00
+    updated_at: 2022-04-10 16:57:40.309311+00:00
+    name: NordVPN
+    active_status: true
+- model: transactions.company
+  pk: 7c5130eb-ea7c-4c84-900d-a3a9fc388169
+  fields:
+    created_at: 2022-04-10 16:57:39.590560+00:00
+    updated_at: 2022-04-10 16:57:39.590602+00:00
+    name: Rappi
+    active_status: true
+- model: transactions.company
+  pk: 7e926d66-bcce-41f9-84a1-d40ef2567b5c
+  fields:
+    created_at: 2022-04-10 16:57:40.277237+00:00
+    updated_at: 2022-04-10 16:57:40.277272+00:00
+    name: VS3
+    active_status: true
+- model: transactions.company
+  pk: 820121c1-2cd2-4db9-a55a-000ed0ac5bd4
+  fields:
+    created_at: 2022-04-10 16:57:40.197106+00:00
+    updated_at: 2022-04-10 16:57:40.197138+00:00
+    name: Binance
+    active_status: true
+- model: transactions.company
+  pk: 82098ba9-a4a3-4894-996e-42f169e6aa45
+  fields:
+    created_at: 2022-04-10 16:57:40.328230+00:00
+    updated_at: 2022-04-10 16:57:40.328261+00:00
+    name: CFE
+    active_status: true
+- model: transactions.company
+  pk: 820e3a06-b513-4c86-ab0e-762aa3673430
+  fields:
+    created_at: 2022-04-10 16:57:40.409119+00:00
+    updated_at: 2022-04-10 16:57:40.409155+00:00
+    name: Sublime
+    active_status: true
+- model: transactions.company
+  pk: 84383e1c-c648-49b9-a786-391e21623f43
+  fields:
+    created_at: 2022-04-10 16:57:39.764356+00:00
+    updated_at: 2022-04-10 16:57:39.764399+00:00
+    name: Paddle
+    active_status: true
+- model: transactions.company
+  pk: 8a157a56-02c9-4435-b26e-1f729460222e
+  fields:
+    created_at: 2022-04-10 16:57:39.858138+00:00
+    updated_at: 2022-04-10 16:57:39.858183+00:00
+    name: Disney Plus
+    active_status: true
+- model: transactions.company
+  pk: 8be6e08c-aa52-4e92-bb29-a5cc4e0c167b
+  fields:
+    created_at: 2022-04-10 16:57:40.133231+00:00
+    updated_at: 2022-04-10 16:57:40.133272+00:00
+    name: Fluentu
+    active_status: true
+- model: transactions.company
+  pk: 8d3e363d-4715-4710-b951-07fe8e7a051c
+  fields:
+    created_at: 2022-04-10 16:57:40.351003+00:00
+    updated_at: 2022-04-10 16:57:40.351057+00:00
+    name: Okboy
+    active_status: true
+- model: transactions.company
+  pk: 8d95e0b3-c2e4-4657-ac2d-0182da9e2749
+  fields:
+    created_at: 2022-04-10 16:57:40.321432+00:00
+    updated_at: 2022-04-10 16:57:40.321471+00:00
+    name: Google Colaboratory
+    active_status: true
+- model: transactions.company
+  pk: 8e26f35d-e690-40d3-ab13-6b694e0e4acc
+  fields:
+    created_at: 2022-04-10 16:57:39.827740+00:00
+    updated_at: 2022-04-10 16:57:39.827778+00:00
+    name: Zwift
+    active_status: true
+- model: transactions.company
+  pk: 8e4d5430-393c-430d-b101-b29072a5a883
+  fields:
+    created_at: 2022-04-10 16:57:40.333473+00:00
+    updated_at: 2022-04-10 16:57:40.333509+00:00
+    name: Metrogas CDMX
+    active_status: true
+- model: transactions.company
+  pk: 8f28ff58-ec28-4f22-9d5c-c330647bb5b0
+  fields:
+    created_at: 2022-04-10 16:57:39.973718+00:00
+    updated_at: 2022-04-10 16:57:39.973761+00:00
+    name: Nintendo Eshop
+    active_status: true
+- model: transactions.company
+  pk: 8fb61e31-eba5-4c08-91f7-a48cebfc5a85
+  fields:
+    created_at: 2022-04-10 16:57:39.705127+00:00
+    updated_at: 2022-04-10 16:57:39.705174+00:00
+    name: Pedidos Ya
+    active_status: true
+- model: transactions.company
+  pk: 92073bf4-4114-4752-90f7-2a362db065cf
+  fields:
+    created_at: 2022-04-10 16:57:39.991495+00:00
+    updated_at: 2022-04-10 16:57:39.991562+00:00
+    name: DX Electrónica
+    active_status: true
+- model: transactions.company
+  pk: 94b50c3a-7939-48f2-8a89-af18141f4336
+  fields:
+    created_at: 2022-04-10 16:57:39.643824+00:00
+    updated_at: 2022-04-10 16:57:39.643857+00:00
+    name: Mercado Pago
+    active_status: true
+- model: transactions.company
+  pk: 94f9d266-5aa0-441a-8345-8ce7c9150533
+  fields:
+    created_at: 2022-04-10 16:57:39.956762+00:00
+    updated_at: 2022-04-10 16:57:39.956808+00:00
+    name: Weex
+    active_status: true
+- model: transactions.company
+  pk: 98990789-3b83-4fdb-aec8-e713ac9e7a7b
+  fields:
+    created_at: 2022-04-10 16:57:40.121502+00:00
+    updated_at: 2022-04-10 16:57:40.121538+00:00
+    name: Discord
+    active_status: true
+- model: transactions.company
+  pk: 98aea9ca-1771-4f60-b6e1-c863931aab07
+  fields:
+    created_at: 2022-04-10 16:57:39.800542+00:00
+    updated_at: 2022-04-10 16:57:39.800581+00:00
+    name: HBO MAX
+    active_status: true
+- model: transactions.company
+  pk: 9a80b709-e174-4dd1-908b-6f575b3dca9b
+  fields:
+    created_at: 2022-04-10 16:57:39.924030+00:00
+    updated_at: 2022-04-10 16:57:39.924074+00:00
+    name: Ecobici
+    active_status: true
+- model: transactions.company
+  pk: 9b107c08-15ab-4ebd-84e2-8c71750b058e
+  fields:
+    created_at: 2022-04-10 16:57:39.661876+00:00
+    updated_at: 2022-04-10 16:57:39.661911+00:00
+    name: OMGyes
+    active_status: true
+- model: transactions.company
+  pk: 9c338548-766c-4274-8827-528aac4c9bcb
+  fields:
+    created_at: 2022-04-10 16:57:40.074768+00:00
+    updated_at: 2022-04-10 16:57:40.074805+00:00
+    name: Tienda Shopealo
+    active_status: true
+- model: transactions.company
+  pk: 9fc39d1a-7850-4930-99c0-b7284d6982c8
+  fields:
+    created_at: 2022-04-10 16:57:40.520534+00:00
+    updated_at: 2022-04-10 16:57:40.520567+00:00
+    name: Typeform
+    active_status: true
+- model: transactions.company
+  pk: a1001ac4-0ed1-4873-a2e4-b19a510e53fe
+  fields:
+    created_at: 2022-04-10 16:57:40.031749+00:00
+    updated_at: 2022-04-10 16:57:40.031786+00:00
+    name: Supercell
+    active_status: true
+- model: transactions.company
+  pk: a186452d-82d7-45dd-ad43-74e9cb50f38e
+  fields:
+    created_at: 2022-04-10 16:57:40.002318+00:00
+    updated_at: 2022-04-10 16:57:40.002355+00:00
+    name: Walmart
+    active_status: true
+- model: transactions.company
+  pk: a304990d-d477-43a6-8086-320e26276a48
+  fields:
+    created_at: 2022-04-10 16:57:40.127912+00:00
+    updated_at: 2022-04-10 16:57:40.127947+00:00
+    name: Learn Enough
+    active_status: true
+- model: transactions.company
+  pk: a3d200b5-244c-4919-882a-726156be3f7e
+  fields:
+    created_at: 2022-04-10 16:57:40.241648+00:00
+    updated_at: 2022-04-10 16:57:40.241708+00:00
+    name: Formnula Uno
+    active_status: true
+- model: transactions.company
+  pk: a48680b3-ac10-4416-8c67-9de2eafbe90a
+  fields:
+    created_at: 2022-04-10 16:57:39.787881+00:00
+    updated_at: 2022-04-10 16:57:39.787922+00:00
+    name: Mercado Libre
+    active_status: true
+- model: transactions.company
+  pk: a5427858-1db0-4769-b59f-e8e901ccfd5e
+  fields:
+    created_at: 2022-04-10 16:57:40.338826+00:00
+    updated_at: 2022-04-10 16:57:40.338869+00:00
+    name: Devoto Electronics
+    active_status: true
+- model: transactions.company
+  pk: a5452d04-596f-4e48-892e-8af0de7d3a91
+  fields:
+    created_at: 2022-04-10 16:57:40.173831+00:00
+    updated_at: 2022-04-10 16:57:40.173870+00:00
+    name: Wikimedia
+    active_status: true
+- model: transactions.company
+  pk: a7a48956-c088-4022-9261-73df6d559d1c
+  fields:
+    created_at: 2022-04-10 16:57:40.538028+00:00
+    updated_at: 2022-04-10 16:57:40.538064+00:00
+    name: Ktronix
+    active_status: true
+- model: transactions.company
+  pk: a998aa7a-b033-4b57-87f2-d966ec104e7c
+  fields:
+    created_at: 2022-04-10 16:57:40.216136+00:00
+    updated_at: 2022-04-10 16:57:40.216176+00:00
+    name: Openpay
+    active_status: true
+- model: transactions.company
+  pk: aa822c39-ad10-415d-b3e7-edc85808ce50
+  fields:
+    created_at: 2022-04-10 16:57:40.264895+00:00
+    updated_at: 2022-04-10 16:57:40.264932+00:00
+    name: EDET SA
+    active_status: true
+- model: transactions.company
+  pk: ab2bab30-5947-4213-8db0-4f887d525591
+  fields:
+    created_at: 2022-04-10 16:57:39.674438+00:00
+    updated_at: 2022-04-10 16:57:39.674517+00:00
+    name: Uber
+    active_status: true
+- model: transactions.company
+  pk: acc48e8c-f033-43a8-bdf6-387abe3ebbfe
+  fields:
+    created_at: 2022-04-10 16:57:40.454731+00:00
+    updated_at: 2022-04-10 16:57:40.454767+00:00
+    name: Wise
+    active_status: true
+- model: transactions.company
+  pk: ae9f2114-9970-41d9-8231-f276c40ad301
+  fields:
+    created_at: 2022-04-10 16:57:39.782157+00:00
+    updated_at: 2022-04-10 16:57:39.782198+00:00
+    name: Pedidos Ya
+    active_status: true
+- model: transactions.company
+  pk: aee154de-78a3-4fd6-80a7-0ff3e0cfec11
+  fields:
+    created_at: 2022-04-10 16:57:39.985137+00:00
+    updated_at: 2022-04-10 16:57:39.985173+00:00
+    name: Dropbox
+    active_status: true
+- model: transactions.company
+  pk: b24ba80c-4262-4fa1-81b9-9352ed305972
+  fields:
+    created_at: 2022-04-10 16:57:39.839879+00:00
+    updated_at: 2022-04-10 16:57:39.839919+00:00
+    name: Sodimac
+    active_status: true
+- model: transactions.company
+  pk: b5be4abe-603a-40fb-8cce-b01968bed5e2
+  fields:
+    created_at: 2022-04-10 16:57:40.461796+00:00
+    updated_at: 2022-04-10 16:57:40.461836+00:00
+    name: Pro Market Latino
+    active_status: true
+- model: transactions.company
+  pk: b6e088ae-9788-4283-bfdb-da42449b0008
+  fields:
+    created_at: 2022-04-10 16:57:40.259451+00:00
+    updated_at: 2022-04-10 16:57:40.259494+00:00
+    name: Ebay
+    active_status: true
+- model: transactions.company
+  pk: b7b1d557-03a1-4e28-8b33-c40f8285f117
+  fields:
+    created_at: 2022-04-10 16:57:39.584436+00:00
+    updated_at: 2022-04-10 16:57:39.584471+00:00
+    name: Blim
+    active_status: true
+- model: transactions.company
+  pk: b84d213f-6849-4d8f-b8c0-fbc3eeae01bc
+  fields:
+    created_at: 2022-04-10 16:57:40.380063+00:00
+    updated_at: 2022-04-10 16:57:40.380098+00:00
+    name: Maimag
+    active_status: true
+- model: transactions.company
+  pk: bebb5587-962f-40ba-b65f-5661223e93ec
+  fields:
+    created_at: 2022-04-10 16:57:40.414674+00:00
+    updated_at: 2022-04-10 16:57:40.414708+00:00
+    name: Fintual
+    active_status: true
+- model: transactions.company
+  pk: bf24210f-899b-4542-8bc2-21a1eadfebd1
+  fields:
+    created_at: 2022-04-10 16:57:40.150935+00:00
+    updated_at: 2022-04-10 16:57:40.150990+00:00
+    name: Tecno Eshop
+    active_status: true
+- model: transactions.company
+  pk: bf956c77-5a37-4a90-a3a8-b3b7afd42f3c
+  fields:
+    created_at: 2022-04-10 16:57:39.869820+00:00
+    updated_at: 2022-04-10 16:57:39.869864+00:00
+    name: Itch IO Game Store
+    active_status: true
+- model: transactions.company
+  pk: c21b7489-e3db-4d81-a5bc-6b8536e2cdb9
+  fields:
+    created_at: 2022-04-10 16:57:39.876206+00:00
+    updated_at: 2022-04-10 16:57:39.876258+00:00
+    name: Square Enix
+    active_status: true
+- model: transactions.company
+  pk: c25f98e4-8b0e-4072-895a-bfde1130ade8
+  fields:
+    created_at: 2022-04-10 16:57:40.097745+00:00
+    updated_at: 2022-04-10 16:57:40.097786+00:00
+    name: Feldroy
+    active_status: true
+- model: transactions.company
+  pk: c281a1f8-a708-4aec-a624-fc2c12043df6
+  fields:
+    created_at: 2022-04-10 16:57:39.596259+00:00
+    updated_at: 2022-04-10 16:57:39.596293+00:00
+    name: Google Cloud
+    active_status: true
+- model: transactions.company
+  pk: c2df4579-6244-4dfd-804c-a02e0c34b494
+  fields:
+    created_at: 2022-04-10 16:57:39.776220+00:00
+    updated_at: 2022-04-10 16:57:39.776280+00:00
+    name: Tinder
+    active_status: true
+- model: transactions.company
+  pk: c2eff8c2-8877-474a-8aad-133e6a029191
+  fields:
+    created_at: 2022-04-10 16:57:40.472795+00:00
+    updated_at: 2022-04-10 16:57:40.472835+00:00
+    name: Bandcamp
+    active_status: true
+- model: transactions.company
+  pk: c48063d9-8db1-47c5-9388-8fa551f2f9a2
+  fields:
+    created_at: 2022-04-10 16:57:39.612884+00:00
+    updated_at: 2022-04-10 16:57:39.612929+00:00
+    name: Telcel
+    active_status: true
+- model: transactions.company
+  pk: c4e359d5-c2e2-4008-9ab8-37104d5e6c5c
+  fields:
+    created_at: 2022-04-10 16:57:39.930861+00:00
+    updated_at: 2022-04-10 16:57:39.930895+00:00
+    name: JFC Electronica
+    active_status: true
+- model: transactions.company
+  pk: c553184d-639e-4f65-888c-01dfb9e09ebb
+  fields:
+    created_at: 2022-04-10 16:57:40.374119+00:00
+    updated_at: 2022-04-10 16:57:40.374158+00:00
+    name: Replit
+    active_status: true
+- model: transactions.company
+  pk: c697b300-9a80-457e-9e8f-30c558859f40
+  fields:
+    created_at: 2022-04-10 16:57:40.202288+00:00
+    updated_at: 2022-04-10 16:57:40.202327+00:00
+    name: Amazon Music
+    active_status: true
+- model: transactions.company
+  pk: c6a61937-55ce-4a51-ae86-76216267eadc
+  fields:
+    created_at: 2022-04-10 16:57:39.729084+00:00
+    updated_at: 2022-04-10 16:57:39.729125+00:00
+    name: Cabify
+    active_status: true
+- model: transactions.company
+  pk: c716698c-25c7-4709-8e5a-a50593cb41ed
+  fields:
+    created_at: 2022-04-10 16:57:40.091680+00:00
+    updated_at: 2022-04-10 16:57:40.091728+00:00
+    name: Crehana
+    active_status: true
+- model: transactions.company
+  pk: cb72d41b-4e39-43ff-91e0-d2883504a807
+  fields:
+    created_at: 2022-04-10 16:57:40.210699+00:00
+    updated_at: 2022-04-10 16:57:40.210738+00:00
+    name: Digital Ocean
+    active_status: true
+- model: transactions.company
+  pk: cc0d319d-237e-431e-80fc-d00b28bbe2a2
+  fields:
+    created_at: 2022-04-10 16:57:39.717072+00:00
+    updated_at: 2022-04-10 16:57:39.717116+00:00
+    name: Staples
+    active_status: true
+- model: transactions.company
+  pk: ce6eb67d-5a69-420b-b1f0-b2428db3c9ad
+  fields:
+    created_at: 2022-04-10 16:57:39.900600+00:00
+    updated_at: 2022-04-10 16:57:39.900638+00:00
+    name: Didi
+    active_status: true
+- model: transactions.company
+  pk: ced71efd-1d65-49f9-8e1a-1fb7a0b55028
+  fields:
+    created_at: 2022-04-10 16:57:40.026043+00:00
+    updated_at: 2022-04-10 16:57:40.026081+00:00
+    name: Kindle Unlimited
+    active_status: true
+- model: transactions.company
+  pk: d0f72e0f-2e5c-4af3-8a1a-519dee4a5b3d
+  fields:
+    created_at: 2022-04-10 16:57:40.138372+00:00
+    updated_at: 2022-04-10 16:57:40.138410+00:00
+    name: Shein
+    active_status: true
+- model: transactions.company
+  pk: d2caa5df-53b0-472c-867c-eef5f98e915e
+  fields:
+    created_at: 2022-04-10 16:57:40.508342+00:00
+    updated_at: 2022-04-10 16:57:40.508379+00:00
+    name: Universidad De Chile
+    active_status: true
+- model: transactions.company
+  pk: d30e376d-0328-4316-b4f4-2a1e5fe60f56
+  fields:
+    created_at: 2022-04-10 16:57:40.426096+00:00
+    updated_at: 2022-04-10 16:57:40.426130+00:00
+    name: Nadar De Noche
+    active_status: true
+- model: transactions.company
+  pk: d38cfa14-eec5-42db-b674-fbf7a447a036
+  fields:
+    created_at: 2022-04-10 16:57:39.686790+00:00
+    updated_at: 2022-04-10 16:57:39.686839+00:00
+    name: Youtube Premium
+    active_status: true
+- model: transactions.company
+  pk: d3e710de-d170-404f-963b-8c6b555ad87e
+  fields:
+    created_at: 2022-04-10 16:57:40.068818+00:00
+    updated_at: 2022-04-10 16:57:40.068854+00:00
+    name: Humble Bundle
+    active_status: true
+- model: transactions.company
+  pk: d491143c-45a3-4e00-b0d3-3db1a73fd537
+  fields:
+    created_at: 2022-04-10 16:57:40.085671+00:00
+    updated_at: 2022-04-10 16:57:40.085706+00:00
+    name: Beatride
+    active_status: true
+- model: transactions.company
+  pk: d716fe9a-b6a3-4059-9f50-369c9861fe86
+  fields:
+    created_at: 2022-04-10 16:57:39.864136+00:00
+    updated_at: 2022-04-10 16:57:39.864177+00:00
+    name: Adobe
+    active_status: true
+- model: transactions.company
+  pk: d77c51c2-42dd-40e6-b2f5-a9990ae5aa09
+  fields:
+    created_at: 2022-04-10 16:57:40.103964+00:00
+    updated_at: 2022-04-10 16:57:40.103996+00:00
+    name: Express VPN
+    active_status: true
+- model: transactions.company
+  pk: d7c2d05a-4aff-4c00-bc58-f12254fef9a8
+  fields:
+    created_at: 2022-04-10 16:57:40.253389+00:00
+    updated_at: 2022-04-10 16:57:40.253422+00:00
+    name: Mundo Manias
+    active_status: true
+- model: transactions.company
+  pk: dc7eab71-7bfd-4b6e-a7b4-45a942044309
+  fields:
+    created_at: 2022-04-10 16:57:40.368571+00:00
+    updated_at: 2022-04-10 16:57:40.368608+00:00
+    name: Tulotero
+    active_status: true
+- model: transactions.company
+  pk: dcf3b6a2-b08c-44f3-8d9c-72447970f9a3
+  fields:
+    created_at: 2022-04-10 16:57:40.162108+00:00
+    updated_at: 2022-04-10 16:57:40.162141+00:00
+    name: Total Play
+    active_status: true
+- model: transactions.company
+  pk: dd428b21-11cb-49b1-b056-f124efd9513e
+  fields:
+    created_at: 2022-04-10 16:57:40.345000+00:00
+    updated_at: 2022-04-10 16:57:40.345036+00:00
+    name: Monokai
+    active_status: true
+- model: transactions.company
+  pk: df5e767d-6eed-4706-becb-c0345aa6f4ac
+  fields:
+    created_at: 2022-04-10 16:57:40.502616+00:00
+    updated_at: 2022-04-10 16:57:40.502651+00:00
+    name: Blinks Labs
+    active_status: true
+- model: transactions.company
+  pk: e1029c32-841d-460c-8b2d-7066af7e9612
+  fields:
+    created_at: 2022-04-10 16:57:39.740063+00:00
+    updated_at: 2022-04-10 16:57:39.740115+00:00
+    name: Telmex
+    active_status: true
+- model: transactions.company
+  pk: e1cf3e88-f85f-41a6-ad95-c9e9f1ac2669
+  fields:
+    created_at: 2022-04-10 16:57:40.185231+00:00
+    updated_at: 2022-04-10 16:57:40.185266+00:00
+    name: La Planchetta
+    active_status: true
+- model: transactions.company
+  pk: e2fa27b2-af67-4ab5-8c62-b36a1a5cbc28
+  fields:
+    created_at: 2022-04-10 16:57:39.722963+00:00
+    updated_at: 2022-04-10 16:57:39.723003+00:00
+    name: HBO MAX
+    active_status: true
+- model: transactions.company
+  pk: e51bb490-993f-4845-ac0d-edfc5bea59a1
+  fields:
+    created_at: 2022-04-10 16:57:40.057062+00:00
+    updated_at: 2022-04-10 16:57:40.057129+00:00
+    name: Izzi Internet
+    active_status: true
+- model: transactions.company
+  pk: e7ed5ceb-5986-418a-bfc4-e17cca17cfbc
+  fields:
+    created_at: 2022-04-10 16:57:40.156244+00:00
+    updated_at: 2022-04-10 16:57:40.156283+00:00
+    name: Eventos Globales
+    active_status: true
+- model: transactions.company
+  pk: e87dc2ef-85d5-4474-9a48-fbfef418450a
+  fields:
+    created_at: 2022-04-10 16:57:39.888597+00:00
+    updated_at: 2022-04-10 16:57:39.888656+00:00
+    name: Paypal
+    active_status: true
+- model: transactions.company
+  pk: e8e1428b-03dd-48c6-afb5-76b3401c85a7
+  fields:
+    created_at: 2022-04-10 16:57:39.918294+00:00
+    updated_at: 2022-04-10 16:57:39.918327+00:00
+    name: The New York Times
+    active_status: true
+- model: transactions.company
+  pk: e8fb00c2-527d-4c34-bb7b-d543905366c4
+  fields:
+    created_at: 2022-04-10 16:57:40.270525+00:00
+    updated_at: 2022-04-10 16:57:40.270560+00:00
+    name: Bien Limpito
+    active_status: true
+- model: transactions.company
+  pk: eb8bd77d-b2ea-47a6-9251-9fc9ec3e460d
+  fields:
+    created_at: 2022-04-10 16:57:40.296332+00:00
+    updated_at: 2022-04-10 16:57:40.296365+00:00
+    name: Paramount Plus
+    active_status: true
+- model: transactions.company
+  pk: ecef12c1-9a1a-4e4b-8998-c2989888a48f
+  fields:
+    created_at: 2022-04-10 16:57:39.667917+00:00
+    updated_at: 2022-04-10 16:57:39.667963+00:00
+    name: Headspace
+    active_status: true
+- model: transactions.company
+  pk: f0e4222e-16f6-45fd-a76b-39aa7c9b6b08
+  fields:
+    created_at: 2022-04-10 16:57:40.397888+00:00
+    updated_at: 2022-04-10 16:57:40.397932+00:00
+    name: Self Growth Plan
+    active_status: true
+- model: transactions.company
+  pk: f1a4c958-d2df-4aae-a597-0906aac59ccc
+  fields:
+    created_at: 2022-04-10 16:57:40.532351+00:00
+    updated_at: 2022-04-10 16:57:40.532384+00:00
+    name: Nespresso
+    active_status: true
+- model: transactions.company
+  pk: f3d6f213-2a70-4fed-af87-c30f1531662e
+  fields:
+    created_at: 2022-04-10 16:57:39.806805+00:00
+    updated_at: 2022-04-10 16:57:39.806850+00:00
+    name: Aliexpress
+    active_status: true
+- model: transactions.company
+  pk: f5d67968-db9a-4fe5-9290-d22af7852d9e
+  fields:
+    created_at: 2022-04-10 16:57:40.496756+00:00
+    updated_at: 2022-04-10 16:57:40.496793+00:00
+    name: Koroto
+    active_status: true
+- model: transactions.company
+  pk: f797e534-f3fc-46da-876e-cbf51ff1511d
+  fields:
+    created_at: 2022-04-10 16:57:39.942517+00:00
+    updated_at: 2022-04-10 16:57:39.942562+00:00
+    name: Riot Games
+    active_status: true
+- model: transactions.company
+  pk: f7ead14a-cbf5-48bd-b73c-b3ebb856355e
+  fields:
+    created_at: 2022-04-10 16:57:40.014222+00:00
+    updated_at: 2022-04-10 16:57:40.014255+00:00
+    name: Apple Music
+    active_status: true
+- model: transactions.company
+  pk: f8354faf-3fa0-4d17-87c5-f3bf5af3fb50
+  fields:
+    created_at: 2022-04-10 16:57:40.221509+00:00
+    updated_at: 2022-04-10 16:57:40.221548+00:00
+    name: Frizata
+    active_status: true
+- model: transactions.company
+  pk: fa996ed5-26ac-46ab-b2f7-802832f7fd64
+  fields:
+    created_at: 2022-04-10 16:57:39.962841+00:00
+    updated_at: 2022-04-10 16:57:39.962877+00:00
+    name: Libertech
+    active_status: true
+- model: transactions.company
+  pk: fd67ef7e-92a7-448c-a666-75efb2071872
+  fields:
+    created_at: 2022-04-10 16:57:39.979600+00:00
+    updated_at: 2022-04-10 16:57:39.979634+00:00
+    name: Infinitum
+    active_status: true
+- model: transactions.company
+  pk: feccd475-bd44-47dd-af54-c0a8c9c8c2bf
+  fields:
+    created_at: 2022-04-10 17:03:53.069868+00:00
+    updated_at: 2022-04-10 17:03:53.069899+00:00
+    name: No Name
+    active_status: true
